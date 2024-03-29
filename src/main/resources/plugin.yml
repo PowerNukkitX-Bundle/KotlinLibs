@@ -1,0 +1,8 @@
+name: KotlinLibs
+main: com.github.coolloong.KotlinLibs
+version: "1.0.0"
+api: [ "2.0.0" ]
+load: POSTWORLD
+author: CoolLoong
+description: Libraries provided to other kotLin plugins
+website: https://github.com/PowerNukkitX-Bundle/KotlinLibs
